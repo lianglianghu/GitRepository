@@ -1,1 +1,3 @@
 this file is for conflict 
+
+and then the source file change the conflict file
