@@ -1,1 +1,3 @@
 this file is for conflict 
+
+clone from git and then change the file 
