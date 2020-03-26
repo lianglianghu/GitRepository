@@ -1,0 +1,7 @@
+this file is for conflict 
+
+
+and then the source file change the conflict file
+
+clone from git and then change the file 
+
